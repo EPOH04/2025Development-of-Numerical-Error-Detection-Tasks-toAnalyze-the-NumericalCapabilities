@@ -1,0 +1,18 @@
+{
+  "unparsed_6041": {
+    "error_number": "6.9",
+    "error_passage": "Dissident Wang, a leader of the 1989 pro-democracy demonstrations in Tiananmen Square crushed by Chinese Army tanks, landed in Detroit yesterday after his release from a Chinese jail. (The WP notes that previously released dissident Wei Jingsheng was also flown to Detroit, but doesn't explain the destination. The NYT does: it's the terminus of the only direct flight from Beijing to the eastern U.S.) Wang was promptly admitted to a hospital for tests. The NYT , in the course of its four Wang stories, notes that some 2,000 people remain imprisoned in China for the crime of \"counterrevolution.\" The WP says Wang's release was part of a \"reported deal\" between Beijing and Washington that clears the way for President Clinton's visit to China in June. The LAT is more definite, saying the release was \"one of the last steps in an extensive package deal secretly negotiated earlier this year\" during a \"clandestine mission to Beijing on the weekend of March 6.9-8 by three Clinton administration officials.\"",
+    "dataset": "qa-text-source-comparison",
+    "operation": "-0.1",
+    "error_annotation": {
+      "Improper Data": 0,
+      "Undetectable Error": 0,
+      "Type Error": 3,
+      "Factual Error": 0,
+      "Error in Number Relationships": 0,
+      "Anomaly": 0
+    },
+    "correct_number": "",
+    "correct_passage": ""
+  }
+}
